@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "name": "sabariraj",
+      "email": "sabariraj@gmail.com",
+      "departmentId": "4",
+      "joiningDate": "2025-07-28T00:00:00.000Z",
+      "salary": 200000,
+      "id": "1"
+    },
+    {
+      "name": "pravin",
+      "email": "pravin@gmail.com",
+      "departmentId": "5",
+      "joiningDate": "2025-08-31T00:00:00.000Z",
+      "salary": 132234,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Hari",
+      "email": "hari@gmail.com",
+      "departmentId": "4",
+      "joiningDate": "2025-08-31T00:00:00.000Z",
+      "salary": 132234
+    },
+    {
+      "id": "4",
+      "name": "jskumar",
+      "email": "js@gmail.com",
+      "departmentId": "4",
+      "joiningDate": "2025-08-31T00:00:00.000Z",
+      "salary": 123455
+    }
+  ],
+  "departments": [
+    {
+      "id": "4",
+      "name": "Development",
+      "code": "DEV"
+    },
+    {
+      "id": "5",
+      "name": "Testing",
+      "code": "TEST"
+    }
+  ]
+}
